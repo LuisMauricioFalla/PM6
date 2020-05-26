@@ -1,0 +1,62 @@
+C:\Users\alumno\Downloads\PM - Semana 6\bin\Debug\netcoreapp2.1\PM - Semana 6.deps.json
+C:\Users\alumno\Downloads\PM - Semana 6\bin\Debug\netcoreapp2.1\PM - Semana 6.runtimeconfig.json
+C:\Users\alumno\Downloads\PM - Semana 6\bin\Debug\netcoreapp2.1\PM - Semana 6.runtimeconfig.dev.json
+C:\Users\alumno\Downloads\PM - Semana 6\bin\Debug\netcoreapp2.1\PM - Semana 6.dll
+C:\Users\alumno\Downloads\PM - Semana 6\bin\Debug\netcoreapp2.1\PM - Semana 6.pdb
+C:\Users\alumno\Downloads\PM - Semana 6\bin\Debug\netcoreapp2.1\PM - Semana 6.Views.dll
+C:\Users\alumno\Downloads\PM - Semana 6\bin\Debug\netcoreapp2.1\PM - Semana 6.Views.pdb
+C:\Users\alumno\Downloads\PM - Semana 6\obj\Debug\netcoreapp2.1\PM - Semana 6.csprojAssemblyReference.cache
+C:\Users\alumno\Downloads\PM - Semana 6\obj\Debug\netcoreapp2.1\PM - Semana 6.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Downloads\PM - Semana 6\obj\Debug\netcoreapp2.1\PM - Semana 6.RazorAssemblyInfo.cache
+C:\Users\alumno\Downloads\PM - Semana 6\obj\Debug\netcoreapp2.1\PM - Semana 6.RazorAssemblyInfo.cs
+C:\Users\alumno\Downloads\PM - Semana 6\obj\Debug\netcoreapp2.1\PM - Semana 6.AssemblyInfoInputs.cache
+C:\Users\alumno\Downloads\PM - Semana 6\obj\Debug\netcoreapp2.1\PM - Semana 6.AssemblyInfo.cs
+C:\Users\alumno\Downloads\PM - Semana 6\obj\Debug\netcoreapp2.1\PM - Semana 6.TagHelpers.input.cache
+C:\Users\alumno\Downloads\PM - Semana 6\obj\Debug\netcoreapp2.1\PM - Semana 6.TagHelpers.output.cache
+C:\Users\alumno\Downloads\PM - Semana 6\obj\Debug\netcoreapp2.1\PM - Semana 6.RazorCoreGenerate.cache
+C:\Users\alumno\Downloads\PM - Semana 6\obj\Debug\netcoreapp2.1\Razor\Views\Portada\Descuento.g.cshtml.cs
+C:\Users\alumno\Downloads\PM - Semana 6\obj\Debug\netcoreapp2.1\Razor\Views\Portada\Nuevo.g.cshtml.cs
+C:\Users\alumno\Downloads\PM - Semana 6\obj\Debug\netcoreapp2.1\Razor\Views\Portada\Popular.g.cshtml.cs
+C:\Users\alumno\Downloads\PM - Semana 6\obj\Debug\netcoreapp2.1\Razor\Views\Registro\Recomendado.g.cshtml.cs
+C:\Users\alumno\Downloads\PM - Semana 6\obj\Debug\netcoreapp2.1\Razor\Views\Registro\Registrarse.g.cshtml.cs
+C:\Users\alumno\Downloads\PM - Semana 6\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Plantilla.g.cshtml.cs
+C:\Users\alumno\Downloads\PM - Semana 6\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\alumno\Downloads\PM - Semana 6\obj\Debug\netcoreapp2.1\PM - Semana 6.RazorTargetAssemblyInfo.cache
+C:\Users\alumno\Downloads\PM - Semana 6\obj\Debug\netcoreapp2.1\PM - Semana 6.RazorTargetAssemblyInfo.cs
+C:\Users\alumno\Downloads\PM - Semana 6\obj\Debug\netcoreapp2.1\PM - Semana 6.Views.pdb
+C:\Users\alumno\Downloads\PM - Semana 6\obj\Debug\netcoreapp2.1\PM - Semana 6.dll
+C:\Users\alumno\Downloads\PM - Semana 6\obj\Debug\netcoreapp2.1\PM - Semana 6.pdb
+C:\Users\alumno\Downloads\PM - Semana 6\obj\Debug\netcoreapp2.1\PM - Semana 6.csproj.CopyComplete
+C:\Users\alumno\Downloads\PM - Semana 6\obj\Debug\netcoreapp2.1\Razor\Views\Portada\Default.g.cshtml.cs
+C:\Users\LuisMauricio\Desktop\PM - Semana 6\PM - Semana 6\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\LuisMauricio\Desktop\PM - Semana 6\PM - Semana 6\bin\Debug\netcoreapp2.1\PM - Semana 6.deps.json
+C:\Users\LuisMauricio\Desktop\PM - Semana 6\PM - Semana 6\bin\Debug\netcoreapp2.1\PM - Semana 6.runtimeconfig.json
+C:\Users\LuisMauricio\Desktop\PM - Semana 6\PM - Semana 6\bin\Debug\netcoreapp2.1\PM - Semana 6.runtimeconfig.dev.json
+C:\Users\LuisMauricio\Desktop\PM - Semana 6\PM - Semana 6\bin\Debug\netcoreapp2.1\PM - Semana 6.dll
+C:\Users\LuisMauricio\Desktop\PM - Semana 6\PM - Semana 6\bin\Debug\netcoreapp2.1\PM - Semana 6.pdb
+C:\Users\LuisMauricio\Desktop\PM - Semana 6\PM - Semana 6\bin\Debug\netcoreapp2.1\PM - Semana 6.Views.dll
+C:\Users\LuisMauricio\Desktop\PM - Semana 6\PM - Semana 6\bin\Debug\netcoreapp2.1\PM - Semana 6.Views.pdb
+C:\Users\LuisMauricio\Desktop\PM - Semana 6\PM - Semana 6\obj\Debug\netcoreapp2.1\PM - Semana 6.csprojAssemblyReference.cache
+C:\Users\LuisMauricio\Desktop\PM - Semana 6\PM - Semana 6\obj\Debug\netcoreapp2.1\PM - Semana 6.AssemblyInfoInputs.cache
+C:\Users\LuisMauricio\Desktop\PM - Semana 6\PM - Semana 6\obj\Debug\netcoreapp2.1\PM - Semana 6.AssemblyInfo.cs
+C:\Users\LuisMauricio\Desktop\PM - Semana 6\PM - Semana 6\obj\Debug\netcoreapp2.1\PM - Semana 6.csproj.CoreCompileInputs.cache
+C:\Users\LuisMauricio\Desktop\PM - Semana 6\PM - Semana 6\obj\Debug\netcoreapp2.1\PM - Semana 6.RazorAssemblyInfo.cache
+C:\Users\LuisMauricio\Desktop\PM - Semana 6\PM - Semana 6\obj\Debug\netcoreapp2.1\PM - Semana 6.RazorAssemblyInfo.cs
+C:\Users\LuisMauricio\Desktop\PM - Semana 6\PM - Semana 6\obj\Debug\netcoreapp2.1\PM - Semana 6.TagHelpers.input.cache
+C:\Users\LuisMauricio\Desktop\PM - Semana 6\PM - Semana 6\obj\Debug\netcoreapp2.1\PM - Semana 6.TagHelpers.output.cache
+C:\Users\LuisMauricio\Desktop\PM - Semana 6\PM - Semana 6\obj\Debug\netcoreapp2.1\PM - Semana 6.RazorCoreGenerate.cache
+C:\Users\LuisMauricio\Desktop\PM - Semana 6\PM - Semana 6\obj\Debug\netcoreapp2.1\Razor\Views\Portada\Default.cshtml.g.cs
+C:\Users\LuisMauricio\Desktop\PM - Semana 6\PM - Semana 6\obj\Debug\netcoreapp2.1\Razor\Views\Portada\Descuento.cshtml.g.cs
+C:\Users\LuisMauricio\Desktop\PM - Semana 6\PM - Semana 6\obj\Debug\netcoreapp2.1\Razor\Views\Portada\Nuevo.cshtml.g.cs
+C:\Users\LuisMauricio\Desktop\PM - Semana 6\PM - Semana 6\obj\Debug\netcoreapp2.1\Razor\Views\Portada\Popular.cshtml.g.cs
+C:\Users\LuisMauricio\Desktop\PM - Semana 6\PM - Semana 6\obj\Debug\netcoreapp2.1\Razor\Views\Registro\Recomendado.cshtml.g.cs
+C:\Users\LuisMauricio\Desktop\PM - Semana 6\PM - Semana 6\obj\Debug\netcoreapp2.1\Razor\Views\Registro\Registrarse.cshtml.g.cs
+C:\Users\LuisMauricio\Desktop\PM - Semana 6\PM - Semana 6\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Plantilla.cshtml.g.cs
+C:\Users\LuisMauricio\Desktop\PM - Semana 6\PM - Semana 6\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\LuisMauricio\Desktop\PM - Semana 6\PM - Semana 6\obj\Debug\netcoreapp2.1\PM - Semana 6.RazorTargetAssemblyInfo.cache
+C:\Users\LuisMauricio\Desktop\PM - Semana 6\PM - Semana 6\obj\Debug\netcoreapp2.1\PM - Semana 6.RazorTargetAssemblyInfo.cs
+C:\Users\LuisMauricio\Desktop\PM - Semana 6\PM - Semana 6\obj\Debug\netcoreapp2.1\PM - Semana 6.Views.pdb
+C:\Users\LuisMauricio\Desktop\PM - Semana 6\PM - Semana 6\obj\Debug\netcoreapp2.1\PM - Semana 6.dll
+C:\Users\LuisMauricio\Desktop\PM - Semana 6\PM - Semana 6\obj\Debug\netcoreapp2.1\PM - Semana 6.pdb
+C:\Users\LuisMauricio\Desktop\PM - Semana 6\PM - Semana 6\obj\Debug\netcoreapp2.1\PM - Semana 6.genruntimeconfig.cache
+C:\Users\LuisMauricio\Desktop\PM - Semana 6\PM - Semana 6\obj\Debug\netcoreapp2.1\PM - Semana 6.csproj.CopyComplete
